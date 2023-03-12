@@ -1,0 +1,53 @@
+﻿# Kodi Media Center language file
+# Addon Name: Spotify
+# Addon id: plugin.audio.spotify
+# Addon Provider: g3rb3n
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2015-11-04 18:30+0100\n"
+"PO-Revision-Date: 2015-11-04 18:30+0100\n"
+"Last-Translator: logi85\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "#11000"
+msgid "General"
+msgstr ""
+
+msgctxt "#11001"
+msgid "Username"
+msgstr ""
+
+msgctxt "#11002"
+msgid "Password"
+msgstr ""
+
+msgctxt "#11003"
+msgid "Device name"
+msgstr ""
+
+msgctxt "#11004"
+msgid "OAuth"
+msgstr ""
+
+msgctxt "#11005"
+msgid "OAuth client id"
+msgstr ""
+
+msgctxt "#11006"
+msgid "OAuth client secret"
+msgstr ""
+
+msgctxt "#11007"
+msgid "OAuth server uri"
+msgstr ""
+
+msgctxt "#11008"
+msgid "Library"
+msgstr ""

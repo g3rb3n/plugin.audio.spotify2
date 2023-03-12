@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<settings version="1">
+    <section id="plugin.audio.spotify2">
+        <category help="" id="general" label="11000">
+            <group id="1">
+                <setting help="" id="username" label="11001" type="string">
+                    <level>0</level>
+                    <default></default>
+                    <control type="edit" format="string">
+                         <heading>11001</heading>
+                    </control>
+                    <constraints>
+                        <allowempty>true</allowempty>
+                    </constraints>
+                </setting>
+                <setting help="" id="password" label="11002" type="string">
+                    <level>0</level>
+                    <default></default>
+                    <control type="edit" format="string">
+                         <heading>11002</heading>
+                    </control>
+                    <constraints>
+                        <allowempty>true</allowempty>
+                    </constraints>
+                </setting>
+                <setting help="" id="device_name" label="11003" type="string">
+                    <level>0</level>
+                    <default>Kodi</default>
+                    <control type="edit" format="string">
+                         <heading>11003</heading>
+                    </control>
+                </setting>
+            </group>
+        </category>
+        <category help="" id="oauth" label="11004">
+            <group id="1">
+                <setting help="" id="client_id" label="11005" type="string">
+                    <level>0</level>
+                    <default></default>
+                    <control type="edit" format="string">
+                         <heading>11005</heading>
+                    </control>
+                    <constraints>
+                        <allowempty>true</allowempty>
+                    </constraints>
+                </setting>
+                <setting help="" id="client_secret" label="11006" type="string">
+                    <level>0</level>
+                    <default></default>
+                    <control type="edit" format="string">
+                         <heading>11006</heading>
+                    </control>
+                    <constraints>
+                        <allowempty>true</allowempty>
+                    </constraints>
+                </setting>
+                <setting help="" id="oauth_url" label="11007" type="string">
+                    <level>0</level>
+                    <default>https://kodi.g3rb3n.online/1/</default>
+                    <control type="edit" format="string">
+                         <heading>11007</heading>
+                    </control>
+                </setting>
+            </group>
+        </category>
+    </section>
+</settings>
