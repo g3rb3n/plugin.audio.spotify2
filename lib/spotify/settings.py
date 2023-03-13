@@ -16,7 +16,7 @@ PASSWORD=''
 DEVICE_NAME='Kodi'
 CLIENT_ID=''
 CLIENT_SECRET=''
-OAUTH_URL='https://kodi.g3rb3n.online/1/'
+OAUTH_URL='https://kodi.g3rb3n.online/'
 
 
 LOG_LEVEL=xbmc.LOGINFO

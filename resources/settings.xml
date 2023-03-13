@@ -56,7 +56,7 @@
                 </setting>
                 <setting help="" id="oauth_url" label="11007" type="string">
                     <level>0</level>
-                    <default>https://kodi.g3rb3n.online/1/</default>
+                    <default>https://kodi.g3rb3n.online/</default>
                     <control type="edit" format="string">
                          <heading>11007</heading>
                     </control>
