@@ -23,7 +23,7 @@ copy the directory to .kodi/addons/
 - Click Save
 
 ### Setup OAuth code server
-Clone https://github.com/g3rb3n/oauth-code-server and set it up on your own server.
+Clone https://github.com/g3rb3n/oauth_server and set it up on your own server.
 Fill in your own service url at settings.py / settings.json or in the addon settings in the kodi interface.
 
 You can also use the service at https://kodi.g3rb3n.online/1/
