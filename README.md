@@ -25,15 +25,13 @@ https://github-wiki-see.page/m/librespot-org/librespot/wiki/Cross-compiling
 - Copy client id and secret
 
 - Click Edit settings
-- Enter https://kodi.g3rb3n.online/i/callback in Redirect URIs
+- Enter {your server}/i/callback in Redirect URIs
 - Click Add
 - Click Save
 
 ### Setup OAuth code server
-Clone https://github.com/g3rb3n/oauth-code-server and set it up on your own server.
+Clone https://github.com/g3rb3n/oauth_server and set it up on your own server.
 Fill in your own service url at settings.py / settings.json or in the addon settings in the kodi interface.
-
-You can also use the service at https://kodi.g3rb3n.online/1/
 
 ## Support
 Create an issue in Github.
