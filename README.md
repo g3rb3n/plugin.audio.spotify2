@@ -4,12 +4,19 @@ A completely rewritten Spotify client based on:
 - Kodi 20 Nexus
 - Librespot for playback
 - spotipy
-- uses an opensource external service for handling OAuth with a simple short code, see https://github.com/g3rb3n/oauth-code-server
+- uses an opensource external service for handling OAuth with a simple short code, see https://github.com/g3rb3n/oauth_server
 
 ## Setup
 ### Install
 git clone https://github.com/g3rb3n/plugin.audio.spotify2.git
 copy the directory to .kodi/addons/
+
+
+## Build libresport
+https://github.com/librespot-org/librespot/blob/dev/COMPILING.md
+https://github-wiki-see.page/m/librespot-org/librespot/wiki/Cross-compiling
+
+
 
 ### Setup app in Spotify
 - Goto https://developer.spotify.com/dashboard/applications
